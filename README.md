@@ -12,4 +12,4 @@ Agenda included:
 
 After all these, I created a simple Flutter app, "Mi Card". A personal business card.
 
-#100DaysOfCode #FlutterDev #MobileAppDevelopment #LearnToCode #Flutter #Day1
+#100DaysOfCode #FlutterDev #MobileAppDevelopment #LearnToCode #Flutter #Day2
